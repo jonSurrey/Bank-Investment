@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E76458C58C9140B6A16D60547E68E80C"
-               BuildableName = "Alamofire.framework"
-               BlueprintName = "Alamofire"
+               BlueprintIdentifier = "9573B7352EE0EB7F0FABCEE27C989241"
+               BuildableName = "Pods_Bank_InvestmentUITests.framework"
+               BlueprintName = "Pods-Bank-InvestmentUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E76458C58C9140B6A16D60547E68E80C"
-            BuildableName = "Alamofire.framework"
-            BlueprintName = "Alamofire"
+            BlueprintIdentifier = "9573B7352EE0EB7F0FABCEE27C989241"
+            BuildableName = "Pods_Bank_InvestmentUITests.framework"
+            BlueprintName = "Pods-Bank-InvestmentUITests"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
